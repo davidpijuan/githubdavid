@@ -2,4 +2,3 @@
 Capitol 1: Introducció al git
 Capitol 2: Fluxe de treball
 Capitol 3: Configuració
-Capitol 4: Gestió de les branques
